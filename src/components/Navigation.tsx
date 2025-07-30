@@ -19,7 +19,7 @@ const Navigation: React.FC<NavigationProps> = ({ activeTab, onTabChange, darkMod
             </div>
             <div>
               <h1 className={`text-xl font-bold ${darkMode ? 'text-white' : 'text-gray-900'}`}>
-                MANAN Barber Shop
+                MANAN
               </h1>
               <p className={`text-xs ${darkMode ? 'text-gray-400' : 'text-gray-500'} -mt-1`}>Premium Grooming</p>
             </div>
